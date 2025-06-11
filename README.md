@@ -2,7 +2,7 @@
 
 **`Jornalista em transição para Desenvolvedora Python`**
 
-Me chamo Fernanda Bastos, sou jornalista e comunicadora de 27 anos com mais de 6 anos de experiência como repórter, pesquisadora e criadora de conteúdo em redações e projetos culturais. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento em Python. Foi na programação que encontrei uma nova forma de expressar criatividade e resolver problemas, aliando minha bagagem em comunicação, pesquisa e pensamento analítico à criação de soluções tecnológicas. Acredito na tecnologia como ferramenta de transformação social e busco oportunidades em equipes colaborativas que desejam gerar impacto positivo por meio de sistemas acessíveis.
+Me chamo Fernanda Bastos, sou jornalista e comunicadora com mais de 5 anos de experiência como repórter e criadora de conteúdo em redações e projetos culturais. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento Full Stack em Python. Foi na programação que encontrei uma nova forma de expressar a minha criatividade e resolver problemas, aliando minha bagagem em comunicação e pensamento analítico à criação de soluções tecnológicas. Por ser uma pessoa bissexual com deficiência física, levanto a bandeira da diversidade e sinto na pele os impactos positivos da inclusão de pessoas diversas. Por esse motivo, acredito que a tecnologia – assim como o jornalismo – pode, sim, funcionar como uma ferramenta de transformação social. Vamos juntos criar histórias (e códigos hehe) de impacto por aí?
 
 <div> 
   
@@ -14,7 +14,20 @@ Me chamo Fernanda Bastos, sou jornalista e comunicadora de 27 anos com mais de 6
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+🚧 Este GitHub está em construção! Logo logo, teremos mais códigos em Python por aqui!!! 🚧
+
+## 📚 Em formação
+📌 Atualmente, estudo Python voltado para programação Full Stack
+🎓 Tenho formação em jornalismo pela Univ. Presbiteriana Mackenzie
+🧩 Faço estudos complementares em lógica de programação e outras temáticas relevantes
+
+## 💡 Interesses
+- Tecnologias acessíveis
+- Projetos open source com foco em impacto cultural
+- Inteligência artificial, automações e narrativas digitais
+- Documentação, UX Writing e storytelling aplicado à tecnologia
+
+### 🤖 Linguagens
 
 <img 
     align="left" 
