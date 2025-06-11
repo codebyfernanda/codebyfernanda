@@ -2,7 +2,9 @@
 
 **`Jornalista em transição para Desenvolvedora Python`**
 
-Me chamo Fernanda Bastos, sou jornalista e comunicadora com mais de 5 anos de experiência como repórter e criadora de conteúdo em redações. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento Full Stack em Python. Foi na programação que encontrei uma nova forma de me expressar e contribuir criativamente, aliando minha bagagem em comunicação e pensamento analítico à criação de soluções tecnológicas. Por ser uma pessoa LGBT+ com deficiência física, falo orgulhosamente de diversidade e sinto na pele os impactos positivos da inclusão de pessoas diversas. Por esse motivo, acredito que a tecnologia – assim como o jornalismo – pode, sim, funcionar como uma ferramenta de transformação social. E aí, vamos juntos criar histórias (e códigos hehe) de impacto?
+Me chamo Fernanda Bastos, sou jornalista e comunicadora com mais de 5 anos de experiência como repórter e criadora de conteúdo em redações. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento Full Stack em Python. Foi na curiosidade com a programação e com o funcionamento de diversas tecnologias que encontrei uma nova forma de me expressar e contribuir criativamente, aliando minha bagagem em comunicação e pensamento analítico à criação de soluções tecnológicas. 
+
+Por ser uma pessoa LGBT+ com deficiência física, falo orgulhosamente de diversidade e sinto na pele os impactos positivos da inclusão de pessoas diversas. Por esse motivo, acredito que a tecnologia – assim como o jornalismo – pode, sim, funcionar como uma ferramenta de transformação social. E aí, vamos juntos criar histórias (e códigos hehe) de impacto?
 
 <div> 
   
@@ -17,7 +19,7 @@ Atualmente, estou me aprofundando nos estudos de Python com foco para a programa
 
 ## 💡 Interesses
 - Tecnologias acessíveis;
-- Projetos open source com foco em impacto cultural;
+- Projetos open source com foco em impacto social;
 - Inteligência artificial, automações e narrativas digitais;
 - Documentação, UX Writing e storytelling aplicado à tecnologia.
 
