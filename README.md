@@ -18,6 +18,7 @@ Me chamo Fernanda Bastos, sou jornalista e comunicadora com mais de 5 anos de ex
 
 ## 📚 Em formação
 📌 Atualmente, estudo Python voltado para programação Full Stack
+
 🎓 Tenho formação em jornalismo pela Univ. Presbiteriana Mackenzie
 🧩 Faço estudos complementares em lógica de programação e outras temáticas relevantes
 
