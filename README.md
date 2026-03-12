@@ -1,26 +1,29 @@
 ## 👩🏻‍💻 Fernanda Bastos
 
-**`Jornalista em transição para Desenvolvedora Python`**
+**`Jornalista em Transição para Tecnologia | Front-end | Dados | QA`**
 
-Me chamo Fernanda Bastos, sou jornalista e comunicadora com mais de 5 anos de experiência como repórter e criadora de conteúdo em redações. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento Full Stack em Python. Foi na curiosidade com a programação e com o funcionamento de diversas tecnologias que encontrei uma nova forma de me expressar e contribuir criativamente, aliando minha bagagem em comunicação e pensamento analítico à criação de soluções tecnológicas. 
+Sou comunicadora com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
-Por ser uma pessoa LGBT+ com deficiência física, falo orgulhosamente de diversidade e sinto na pele os impactos positivos da inclusão de pessoas diversas. Por esse motivo, acredito que a tecnologia – assim como o jornalismo – pode, sim, funcionar como uma ferramenta de transformação social. E aí, vamos juntos criar histórias (e códigos hehe) de impacto?
+Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportuidade, percebi que gostaria de estar ajudando a construir as soluções e não apenas escrevendo sobre elas.
 
-<div> 
-  
-<a href="[https://www.linkedin.com/in/fernandabastos2025/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="[https://www.instagram.com/bastafernanda/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<div>
 <a href = "mailto:hellofernandabastos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="[https://www.linkedin.com/in/hellofernandabastos/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/bastafernanda/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ## 🎓 Em formação
-Atualmente, estou me aprofundando nos estudos de Python com foco para a programação Full Stack pela EBAC (Escola Britânica de Artes Criativas e Tecnologia), com previsão de conclusão para dezembro de 2025. Além disso, tenho formação acadêmica em jornalismo pela Univ. Presbiteriana Mackenzie e realizo alguns estudos complementares em lógica de programação e outras temáticas tecnológicas relevantes. 
+Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (MACKENZIE) e curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia), unindo o pensamento crítico do jornalismo com a precisão do desenvolvimento de software.
+
+## 🛠️ O que eu trago na bagagem (além do código):
+- Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
+- Pesquisa investigativa: Facilidade em encontrar a raiz de problemas (bugs) e analisar volumes de dados.
+- Pensamento crítico: Visão analítica para entender o impacto social de cada linha de código.
+- Advocacy & diversidade: Como mulher com deficiência física e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
 
 ## 💡 Interesses
 - Tecnologias acessíveis;
 - Projetos open source com foco em impacto social;
-- Inteligência artificial, automações e narrativas digitais;
 - Documentação, UX Writing e storytelling aplicado à tecnologia.
 
 ## 🤖 Linguagens
@@ -29,7 +32,7 @@ Atualmente, estou me aprofundando nos estudos de Python com foco para a programa
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -37,7 +40,7 @@ Atualmente, estou me aprofundando nos estudos de Python com foco para a programa
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -45,7 +48,7 @@ Atualmente, estou me aprofundando nos estudos de Python com foco para a programa
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -53,10 +56,18 @@ Atualmente, estou me aprofundando nos estudos de Python com foco para a programa
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <br/>
 <br/>
