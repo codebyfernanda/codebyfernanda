@@ -2,7 +2,7 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | Dados | QA`**
 
-Sou comunicadora com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
+Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
 Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportuidade, percebi que gostaria de estar ajudando a construir as soluções e não apenas escrevendo sobre elas.
 
@@ -13,7 +13,7 @@ Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender
 </div>
 
 ## 🎓 Em formação
-Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (MACKENZIE) e curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia), unindo o pensamento crítico do jornalismo com a precisão do desenvolvimento de software.
+Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (MACKENZIE) e curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia), unindo o pensamento crítico do jornalismo com a precisão do desenvolvimento de software. Vamos nos conectar e criar histórias (e códigos) de impacto?
 
 ## 🛠️ O que eu trago na bagagem (além do código):
 - Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
