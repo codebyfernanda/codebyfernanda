@@ -8,8 +8,8 @@ Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender
 
 <div>
 <a href = "mailto:hellofernandabastos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/hellofernandabastos/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="[https://www.instagram.com/bastafernanda/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hellofernandabastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/bastafernanda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ## 🎓 Em formação
