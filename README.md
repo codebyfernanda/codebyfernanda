@@ -4,7 +4,7 @@
 
 Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
-Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportuidade, percebi que gostaria de estar ajudando a construir as soluções e não apenas escrevendo sobre elas.
+Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportunidade, percebi que gostaria de estar ajudando a construir as soluções e não apenas escrevendo sobre elas.
 
 <div>
 <a href = "mailto:hellofernandabastos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
