@@ -15,9 +15,9 @@ Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender
 ## 🎓 Em formação
 Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (MACKENZIE) e curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia), unindo o pensamento crítico do jornalismo com a precisão do desenvolvimento de software. 
 
-Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Cada vez mais, estou buscando me capacitar na área de desenvolvimento para me preparar pensando nos desafios do mercado profissional. 
+Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Cada vez mais, estou buscando me capacitar na área de desenvolvimento para me preparar pensando nos desafios do mercado profissional. **Tenho interesse em colaborar com projetos de nível júnior/iniciante**. 
 
-**Tenho interesse em colaborar com projetos de nível júnior/iniciante**. Vamos nos conectar para criar histórias (e códigos!) de impacto?
+Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
 
 ## 🛠️ O que eu trago na bagagem (além do código):
 - Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
