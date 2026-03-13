@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Fernanda Bastos
+## 👩🏻‍💻 Oie, eu sou a Fernanda Bastos!
 
 **`Jornalista em Transição para Tecnologia | Front-end | Dados | QA`**
 
