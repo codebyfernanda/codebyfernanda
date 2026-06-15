@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Oie, eu sou a Fernanda Bastos!
 
-**`Jornalista em Transição para Tecnologia | Front-end | Dados | QA`**
+**`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
 Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
