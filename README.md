@@ -37,7 +37,7 @@ With that, I’m looking to keep building my skills and prepare myself to face t
 **Let’s create impactful stories (and code!) together?** 💫
 
 ## 🤖 My stack 
-
+<div>
 <img 
     align="left" 
     alt="HTML"
@@ -110,8 +110,11 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 /> 
+</div>
 
----
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
 
 ## 🛠️ What I bring (besides coding!):
 - **Communication & Writing:** technical ability for clear documentation, UX Writing and storytelling.
