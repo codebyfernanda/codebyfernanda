@@ -16,7 +16,8 @@ Hi! My name is **Fernanda**, and I’m a journalist with 6+ years of experience 
 
 Later, I worked as a public relations professional, where I had the chance to support companies in Artificial Intelligence (AI) and Software as a Service (SaaS). That experience helped me realize I didn’t just want to **write about these solutions — but I wanted to help *build* them**. That’s what led me to transition my career into technology.
 
-<div align="center">
+## 🤖 My Stack 
+<div align="left">
     <img 
         alt="HTML"
         title="HTML" 
