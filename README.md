@@ -2,9 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=307FF3&background=FFFBF600&center=true&vCenter=true&width=435&lines=Oie%2C+eu+sou+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
+
+## Sobre Mim 
 </div>
 
-<ul style="font-size: 1.25em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
+<ul style="font-size: 3.25em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
   <li style="margin-bottom: 10px;">🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</li>
   <li style="margin-bottom: 10px;">🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</li>
   <li style="margin-bottom: 10px;">🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</li>
