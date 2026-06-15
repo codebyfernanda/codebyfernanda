@@ -6,7 +6,7 @@
 ## 🪐 Sobre Mim
 
 <blockquote style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0;">
-<div align="left" style="font-size: 2.15em; line-height: 1.8;">
+<div align="left" style="font-size: 77px; line-height: 1.8;">
 
   🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.<br>
   🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.<br>
