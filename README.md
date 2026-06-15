@@ -2,9 +2,9 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
-Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
+Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e o CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
-Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportunidade, percebi que gostaria de estar ajudando a construir as soluções e não apenas escrevendo sobre elas.
+Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportunidade, percebi que gostaria de ajudar a construir as soluções e não apenas escrever / reportar sobre elas. Foi neste ponto que decidi fazer a minha transição de carreira para a área da tecnologia.
 
 <div align="center">
 <a href = "mailto:hellofernandabastos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,16 +12,20 @@ Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender
 <a href="https://www.instagram.com/bastafernanda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
 ## 🎓 Em formação
-Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (MACKENZIE) e curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia), unindo o pensamento crítico do jornalismo com a precisão do desenvolvimento de software. 
+Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (atualmente, estou no 2º semestre), curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia) e também tenho aproveitado o meu tempo como estudante para me aprofundar em temas do meu interesse como front-end, QA, UX / UI Design e Dados. Minha maior vontade é unir o pensamento crítico do meu lado jornalista com a precisão do desenvolvimento de software que estou aprendendo atualmente. 
 
-Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Cada vez mais, estou buscando me capacitar na área de desenvolvimento para me preparar pensando nos desafios do mercado profissional. **Tenho interesse em colaborar com projetos de nível júnior/iniciante**. 
+Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Em maio de 2026, fui selecionada para o Bootcamp AWS AI FDE Driven Quality Engineering da AI/R Company. Com isso, estou buscando me capacitar na área e me preparar adequadamente para enfrentar os desafios do mercado profissional. **Tenho interesse em participar de projetos colaborativos de nível júnior/iniciante**. 
 
-Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
+**Vamos nos conectar para criar histórias (e códigos!) de impacto?** 💫
+
+---
 
 ## 🛠️ O que eu trago na bagagem (além do código):
 - Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
-- Pesquisa investigativa: Facilidade em encontrar a raiz de problemas (bugs) e analisar volumes de dados.
+- Pesquisa investigativa: Facilidade em encontrar a raiz de problemas e analisar grandes massas de dados.
 - Pensamento crítico: Visão analítica para entender o impacto social de cada linha de código.
 - Advocacy & diversidade: Como mulher com deficiência física e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
 
@@ -29,6 +33,8 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
 - Tecnologias acessíveis;
 - Projetos open source com foco em impacto social;
 - Documentação, UX Writing e storytelling aplicado à tecnologia.
+
+---
 
 ## 🤖 Linguagens
 
