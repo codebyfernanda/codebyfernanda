@@ -3,7 +3,7 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
-## Sobre Mim 
+## 𓆝 𓆟 𓆞 𓆝 𓆟 Sobre Mim 𓆝 𓆟 𓆞 𓆝 𓆟
 </div>
 
 <ul style="font-size: 3.25em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
