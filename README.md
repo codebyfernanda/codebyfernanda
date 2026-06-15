@@ -3,15 +3,16 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
-## 𓆝 𓆟 𓆞 𓆝 𓆟 Sobre Mim 𓆝 𓆟 𓆞 𓆝 𓆟
 </div>
 
+## 🎨 Sobre Mim
+
 <ul style="font-size: 3.25em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
-  <li style="margin-bottom: 10px;">🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</li>
-  <li style="margin-bottom: 10px;">🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</li>
-  <li style="margin-bottom: 10px;">🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</li>
-  <li style="margin-bottom: 10px;">🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.</li>
-  <li>🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</li>
+  <li style="margin-bottom: 10px;"><b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</li>
+  <li style="margin-bottom: 10px;">Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+  <li style="margin-bottom: 10px;">Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</li>
+  <li style="margin-bottom: 10px;">Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.</li>
+  <li>A minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</li>
 </ul>
 
 Prazer, meu nome é Fernanda e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
