@@ -50,9 +50,9 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 Quando não estou refatorando um código ou estudando Programação, gosto de:
 
 * **Mimar minha supervisora oficial:** Minha gatinha, **Paçoca Peralta** (homenagem a *Brooklyn 99*), garante que meu ambiente seja cheio de carinho.
-* **Explorar o mundo geek:** Acompanho *One Piece*, sou uma nintendista orgulhosa, amo jogos de tabuleiro e estou sempre buscando o próximo *cozy game* favorito.
-* **Viver a estética cinéfila & retrô:** Pratico fotografia com minha Polaroid sou apaixonada por cinema e tenho um apreço meio (ou *totalmente*) nostálgico pela estética retrofuturista.
-* **Ouvir minhas vibes:** Minha trilha sonora de foco alterna entre o Lo-fi, bandas indie e a energia inigualável dos reizinhos do **Bring Me the Horizon**.
+* **Explorar o meu mundinho geek:** Acompanho *One Piece*, sou uma nintendista orgulhosa, amo jogos de tabuleiro e estou sempre buscando do meu próximo *cozy game* favorito.
+* **Ouvir minhas vibes:** Minha trilha sonora de foco alterna entre o Lo-fi, bandas indie, batidas insuperáveis de EDM e a energia inigualável dos reizinhos do **Bring Me the Horizon**.
+* **Experimentar a estética cinéfila & offline:** Pratico fotografia, sou apaixonada por cinema (!!!), faço pintura em tela e tenho um apreço meio (ou *totalmente*) nostálgico pela estética retrofuturista.
 
 <div align="center">
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
