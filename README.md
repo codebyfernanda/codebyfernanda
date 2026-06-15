@@ -23,7 +23,14 @@ Later, I worked as a public relations professional, where I had the chance to su
 ## 🎓 Graduation in progress... 
 Today, I’m an undergraduate student in **Systems Analysis and Development** at Universidade Presbiteriana Mackenzie (São Paulo, SP). I'm also studying Full Stack Programming at EBAC (British School of Creative Arts and Technology). I’ve also been using my time as a student to deepen my knowledge in areas I’m passionate about: *front-end, QA, UX / UI Design and Data*.
 
-My biggest goal is to combine the critical thinking from my journalism background with the precision of software development I’m learning. For this reason, I’ve taken part in countless courses — some highlights include: UNIFESP’s Introduction to Digital Logic, and the #ElasTech Bootcamp from SoulCode Academy + PagBank, both completed in 2025. And in May 2026, I was selected for the AWS AI FDE Driven Quality Engineering Bootcamp by AI/R Company.
+I bridge the gap between journalism's critical thinking and software development's technical precision. My path is marked by a commitment to continuous learning and technical rigor, highlighted by the following programs:
+
+* **AWS AI FDE Driven Quality Engineering Bootcamp** | AI/R Company (May 2026)
+  * Focused on AI-driven quality engineering and development standards.
+* **#ElasTech Bootcamp** | SoulCode Academy + PagBank (2025)
+  * Intensive technical training focused on developing robust solutions for corporate environments.
+* **Introduction to Digital Logic** | UNIFESP (2025)
+  * Theoretical foundation in computational systems, strengthening the logical base necessary for software architecture.
 
 With that, I’m looking to keep building my skills and prepare myself to face the real challenges that will come in the professional market. **I’m interested in joining junior/entry-level collaborative projects**.
 
