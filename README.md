@@ -16,10 +16,9 @@ Hi! My name is **Fernanda**, and I’m a journalist with 6+ years of experience 
 
 Later, I worked as a public relations professional, where I had the chance to support companies in Artificial Intelligence (AI) and Software as a Service (SaaS). That experience helped me realize I didn’t just want to **write about these solutions — but I wanted to help *build* them**. That’s what led me to transition my career into technology.
 
-## 🤖 My stack 
 <div>
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="33px" 
@@ -27,7 +26,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="33px" 
@@ -35,7 +34,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="C" 
     title="C"
     width="33px" 
@@ -43,7 +42,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="33px" 
@@ -51,7 +50,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="33px" 
@@ -59,7 +58,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Java" 
     title="Java"
     width="33px" 
@@ -67,7 +66,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Kotlin" 
     title="Kotlin"
     width="33px" 
@@ -75,7 +74,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="React" 
     title="React"
     width="33px" 
@@ -83,7 +82,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Flutter" 
     title="Flutter"
     width="33px" 
