@@ -113,6 +113,8 @@ Quando não estou refatorando um código ou estudando Programação, gosto de:
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
 </div>
 
+<br>
+
 <table align="center" width="100%" border="0">
   <tr>
     <td align="center">
