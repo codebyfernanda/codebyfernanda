@@ -36,7 +36,7 @@ With that, I’m looking to keep building my skills and prepare myself to face t
 
 **Let’s create impactful stories (and code!) together?** 💫
 
-## 🤖 My Stack 
+## 🤖 My stack 
 
 <img 
     align="left" 
@@ -131,7 +131,7 @@ With that, I’m looking to keep building my skills and prepare myself to face t
 - **Critical thinking:** an analytical mindset to understand the social impact of every line of code.
 - **Diversity:** as a woman with a disability and LGBTQIAPN+, my perspective is grounded in accessibility and inclusion.
 
-## ⭐ Interests
+## ⭐ My interests
 - Accessible technologies (A11y);
 - Testing (Unit/E2E) to ensure resilience for Quality Engineering;
 - Open-source projects focused on social impact;
