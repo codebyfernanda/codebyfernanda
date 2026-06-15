@@ -5,7 +5,7 @@
 
 </div>
 
-Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e o CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
+Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de forma independente o HTML / CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
 Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportunidade, percebi que gostaria de ajudar a construir as soluções e não apenas escrever / reportar sobre elas. Foi neste ponto que decidi fazer a minha transição de carreira para a área da tecnologia.
 
