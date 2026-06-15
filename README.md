@@ -118,12 +118,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 
-<br>
-
-<div align="center">
-<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
-</div>
-
 ## 🛠️ What I bring (besides coding!):
 - **Communication & Writing:** technical ability for clear documentation, UX Writing and storytelling.
 - **Strong research skills:** ease in finding the root causes of problems and analyzing large data sets.
