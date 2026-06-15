@@ -7,7 +7,7 @@
 
 <blockquote style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0;">
 
-  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 20px;">
+  <p style="font-size: 1.05em; text-align: left; line-height: 1.8; margin-bottom: 20px;">
     🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.<br>
     🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.<br>
     🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.<br>
