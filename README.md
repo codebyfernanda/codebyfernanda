@@ -9,9 +9,9 @@
 <div style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0; text-align: left;">
 
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
-    **>** <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</p>
+    <b> > Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
-    **>** Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</p>
+    <b> > </b> Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
     **>** Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
