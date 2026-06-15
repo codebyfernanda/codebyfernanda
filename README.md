@@ -25,7 +25,7 @@ A minha maior vontade é unir o pensamento crítico do meu lado jornalista com a
 
 Com isso, estou buscando me capacitar na área e me preparar adequadamente para enfrentar os desafios reais que me esperam no mercado profissional. **Tenho interesse em participar de projetos colaborativos de nível júnior/iniciante**. 
 
-**`Vamos nos conectar para criar histórias (e códigos!) de impacto?`** 💫
+**Vamos juntos criar histórias (e códigos!) de impacto?** 💫
 
 <div align="center">
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
