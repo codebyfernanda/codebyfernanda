@@ -29,7 +29,7 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 
 **Vamos juntos criar histórias (e códigos!) de impacto?** 💫
 
-## 🤖 Minhas Linguagens
+## 🤖 Minha Stack
 
 <img 
     align="left" 
@@ -118,13 +118,13 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
 </div>
 
-## 🛠️ O que eu trago na bagagem (além do código):
+## 🛠️ O que eu trago na bagagem (além do código!):
 - **Comunicação & Escrita:** Capacidade técnica para documentação clara, UX Writing e storytelling.
 - **Pesquisa bem apurada:** Facilidade em encontrar a raiz de problemas e analisar grandes massas de dados.
 - **Pensamento crítico:** Visão analítica para entender o impacto social de cada linha de código.
 - **Diversidade:** Como mulher com deficiência e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
 
-## 💡 Interesses
+## ⭐ Interesses
 - Tecnologias acessíveis (A11y);
 - Testes (Unitários/E2E) que garantem a resiliência para a Engenharia de Qualidade; 
 - Projetos open source com foco em impacto social;
