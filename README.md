@@ -111,6 +111,10 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
+
 <br>
 
 ## 🛠️ What I bring (besides coding!):
