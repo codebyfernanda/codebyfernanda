@@ -25,7 +25,9 @@ Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender
 <a href="https://www.instagram.com/bastafernanda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
----
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
 
 ## 🎓 Em formação
 Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (atualmente, estou no 2º semestre), curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia) e também tenho aproveitado o meu tempo como estudante para me aprofundar em temas do meu interesse como front-end, QA, UX / UI Design e Dados. 
@@ -38,7 +40,9 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 
 **Vamos nos conectar para criar histórias (e códigos!) de impacto?** 💫
 
-𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
 
 ## 🛠️ O que eu trago na bagagem (além do código):
 - Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
@@ -51,7 +55,9 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 - Projetos open source com foco em impacto social;
 - Documentação, UX Writing e storytelling aplicado à tecnologia.
 
-𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
 
 ## 🤖 Linguagens
 
