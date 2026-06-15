@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=307FF3&background=FFFBF600&center=true&vCenter=true&width=435&lines=Oie%2C+eu+sou+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=307FF3&background=FFFBF600&center=true&vCenter=true&width=435&lines=Hi!%2C+I'm+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
 
-**`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
+**`Journalist in Transition to Technology | Front-end | QA | UX / UI Design | Data`**
 
 <div align="center">
 <a href = "mailto:hellofernandabastos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,24 +12,24 @@
 
 <br>
 
-Prazer, meu nome é **Fernanda** e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
+Hi! My name is **Fernanda**, and I’m a journalist with 6+ years of experience in major newsrooms (such as EXAME and TMDQA!, etc.) who decided to make room in life for lines of code. My journey into technology is not new at all: even during high school, I independently explored HTML / CSS to style my blog, but it was while working as a reporter that I genuinely became fascinated (with intention!) by the innovation sector.
 
-Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportunidade, percebi que **gostaria de ajudar a construir as soluções e não *apenas* escrever / reportar notícias sobre elas**. Foi neste ponto que decidi fazer a minha transição de carreira para a área da tecnologia.
+Later, I worked as a public relations professional, where I had the chance to support companies in Artificial Intelligence (AI) and Software as a Service (SaaS). That experience helped me realize I didn’t just want to **write about these solutions — but I wanted to help *build* them**. That’s what led me to transition my career into technology.
 
 <div align="center">
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
 </div>
 
-## 🎓 Em formação
-Hoje, sou graduanda em **Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie**, curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia) e também tenho aproveitado o meu tempo como estudante para me aprofundar em temas do meu interesse como *front-end, QA, UX / UI Design e Dados*. 
+## 🎓 Graduation in progress... 
+Today, I’m an undergraduate student in **Analysis and Systems Development** at Universidade Presbiteriana Mackenzie (São Paulo, SP). I'm also studying Full Stack Programming at EBAC (British School of Creative Arts and Technology). I’ve also been using my time as a student to deepen my knowledge in areas I’m passionate about: *front-end, QA, UX / UI Design and Data*.
 
-A minha maior vontade é unir o pensamento crítico do meu lado jornalista com a precisão do desenvolvimento de software que estou aprendendo. Por esse motivo, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Mas, em maio de 2026, fui selecionada para o Bootcamp AWS AI FDE Driven Quality Engineering da AI/R Company. 
+My biggest goal is to combine the critical thinking from my journalism background with the precision of software development I’m learning. For this reason, I’ve taken part in countless courses—some highlights include: UNIFESP’s Introduction to Digital Logic, and the #ElasTech Bootcamp from SoulCode Academy + PagBank, both completed in 2025. And in May 2026, I was selected for the AWS AI FDE Driven Quality Engineering Bootcamp by AI/R Company.
 
-Com isso, estou buscando me capacitar na área e me preparar adequadamente para enfrentar os desafios reais que me esperam no mercado profissional. **Tenho interesse em participar de projetos colaborativos de nível júnior/iniciante**. 
+With that, I’m looking to keep building my skills and prepare myself to face the real challenges that will come in the professional market. **I’m interested in joining junior/entry-level collaborative projects**.
 
-**Vamos juntos criar histórias (e códigos!) de impacto?** 💫
+**Let’s create impactful stories (and code!) together?** 💫
 
-## 🤖 Minha Stack
+## 🤖 My Stack 
 
 <img 
     align="left" 
@@ -118,26 +118,26 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
 </div>
 
-## 🛠️ O que eu trago na bagagem (além do código!):
-- **Comunicação & Escrita:** Capacidade técnica para documentação clara, UX Writing e storytelling.
-- **Pesquisa bem apurada:** Facilidade em encontrar a raiz de problemas e analisar grandes massas de dados.
-- **Pensamento crítico:** Visão analítica para entender o impacto social de cada linha de código.
-- **Diversidade:** Como mulher com deficiência e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
+## 🛠️ What I bring (besides coding!):
+- **Communication & Writing:** technical ability for clear documentation, UX Writing and storytelling.
+- **Strong research skills:** ease in finding the root causes of problems and analyzing large data sets.
+- **Critical thinking:** an analytical mindset to understand the social impact of every line of code.
+- **Diversity:** as a woman with a disability and LGBTQIAPN+, my perspective is grounded in accessibility and inclusion.
 
-## ⭐ Interesses
-- Tecnologias acessíveis (A11y);
-- Testes (Unitários/E2E) que garantem a resiliência para a Engenharia de Qualidade; 
-- Projetos open source com foco em impacto social;
-- Documentação, UX Writing e storytelling aplicado à tecnologia.
+## ⭐ Interests
+- Accessible technologies (A11y);
+- Testing (Unit/E2E) to ensure resilience for Quality Engineering;
+- Open-source projects focused on social impact;
+- Documentation, UX Writing, and storytelling applied to technology
 
-## 🐈 Vida além da tela
+## 🐈 Life beyond the screen
 
-Quando não estou refatorando um código ou estudando Programação, gosto de:
+When I’m not refactoring code or studying programming, I enjoy:
 
-* **Mimar minha supervisora oficial:** Minha gatinha, **Paçoca Peralta** (homenagem a *Brooklyn 99*), garante que meu ambiente seja cheio de carinho.
-* **Explorar o meu mundinho geek:** Acompanho *One Piece*, sou uma *Nintendo kid* orgulhosa, amo jogos de tabuleiro e estou sempre buscando do meu próximo *cozy game* favorito.
-* **Ouvir minhas vibes:** Minha trilha sonora de foco alterna entre o Lo-fi, bandas indie, batidas insuperáveis de EDM e a energia inigualável dos reizinhos do **Bring Me the Horizon**.
-* **Experimentar a estética cinéfila & offline:** Pratico fotografia, sou apaixonada por cinema (!!!), faço pintura em tela e tenho um apreço meio (ou *totalmente*) nostálgico pela estética retrofuturista.
+* **Spoiling my official supervisor:** my cat, **Paçoca Peralta** (a *tribute to Brooklyn 99*), keeps my space full of love.
+* **Exploring my geek world:** I watch *One Piece*, I’m a proud *Nintendo kid*, I love board games, and I’m always looking for my next favorite *cozy game*.
+* **Listening to my focus vibes:** my “getting things done” playlist alternates between Lo-fi, indie bands, unstoppable EDM beats, and the unmatched energy of the guys from **Bring Me the Horizon <3**.
+* **Cinematic aesthetics & unplugging:** I practice photography, I’m passionate about cinema (!!!), I paint on canvas, and I have a slightly (or *totally!*) nostalgic appreciation for retrofuturistic aesthetics.
 
 <div align="center">
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
