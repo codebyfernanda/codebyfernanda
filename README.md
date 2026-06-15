@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=1129F7&background=FFFBF600&center=true&vCenter=true&width=435&lines=Oie%2C+eu+sou+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=307FF3&background=FFFBF600&center=true&vCenter=true&width=435&lines=Oie%2C+eu+sou+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
 </div>
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
