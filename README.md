@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/hellofernandabastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/bastafernanda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
+</div> 
 
 Prazer, meu nome é **Fernanda** e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
 
