@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=307FF3&background=FFFBF600&center=true&vCenter=true&width=435&lines=Oie%2C+eu+sou+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
-</div>
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
+
+</div>
 
 Sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA!) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não começou agora: lá no Ensino Médio, já desbravava de maneira independente o HTML e o CSS, mas foi trabalhando como repórter que passei a observar com gosto o setor de inovação. 
 
