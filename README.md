@@ -156,8 +156,4 @@ Quando não estou refatorando um código ou estudando Programação, gosto de:
   </tr>
 </table>
 
-<img 
-  src="Robin.jpg" 
-  alt="Robin - One Piece" 
-  style="width: 33px; display: block; margin: 0 auto; padding-right: 10px;" 
-/>
+<img align="center" alt="Robin - One Piece" src="Robin.jpg" width="33px" />
