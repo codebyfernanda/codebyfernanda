@@ -15,9 +15,13 @@ Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender
 ---
 
 ## 🎓 Em formação
-Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (atualmente, estou no 2º semestre), curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia) e também tenho aproveitado o meu tempo como estudante para me aprofundar em temas do meu interesse como front-end, QA, UX / UI Design e Dados. Minha maior vontade é unir o pensamento crítico do meu lado jornalista com a precisão do desenvolvimento de software que estou aprendendo atualmente. 
+Hoje, sou graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (atualmente, estou no 2º semestre), curso Programação Full Stack na EBAC (Escola Britânica de Artes Criativas e Tecnologia) e também tenho aproveitado o meu tempo como estudante para me aprofundar em temas do meu interesse como front-end, QA, UX / UI Design e Dados. 
 
-Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Em maio de 2026, fui selecionada para o Bootcamp AWS AI FDE Driven Quality Engineering da AI/R Company. Com isso, estou buscando me capacitar na área e me preparar adequadamente para enfrentar os desafios do mercado profissional. **Tenho interesse em participar de projetos colaborativos de nível júnior/iniciante**. 
+Minha maior vontade é unir o pensamento crítico do meu lado jornalista com a precisão do desenvolvimento de software que estou aprendendo atualmente. 
+
+Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a Iniciação à Lógica Digital da UNIFESP e o Bootcamp #ElasTech, uma iniciativa da SoulCode Academy + PagBank, ambos concluídos em 2025. Em maio de 2026, fui selecionada para o Bootcamp AWS AI FDE Driven Quality Engineering da AI/R Company. 
+
+Com isso, estou buscando me capacitar na área e me preparar adequadamente para enfrentar os desafios reais que me esperam no mercado profissional. **Tenho interesse em participar de projetos colaborativos de nível júnior/iniciante**. 
 
 **Vamos nos conectar para criar histórias (e códigos!) de impacto?** 💫
 
@@ -27,7 +31,7 @@ Além disso, venho participando de inúmeros cursos, sendo alguns destaques: a I
 - Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
 - Pesquisa investigativa: Facilidade em encontrar a raiz de problemas e analisar grandes massas de dados.
 - Pensamento crítico: Visão analítica para entender o impacto social de cada linha de código.
-- Advocacy & diversidade: Como mulher com deficiência física e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
+- Pensamento orientado à diversidade: Como mulher com deficiência e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
 
 ## 💡 Interesses
 - Tecnologias acessíveis;
