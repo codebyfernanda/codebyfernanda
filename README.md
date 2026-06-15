@@ -101,7 +101,6 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 --- 
 
 <div align="center">
-| ESTÁTICAS DO MEU GITHUB | LINGUAGENS MAIS USADAS |
-| :---: | :---: |
-| ![Minhas Estáticas](https://github-readme-stats.vercel.app/api?username=codebyfernanda&hide=issues&count_private=true&show_icons=true&theme=tokyonight) | ![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyfernanda&layout=compact&theme=tokyonight) |
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyfernanda&hide=issues&count_private=true&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyfernanda&layout=compact&theme=nightowl" />
 </div>
