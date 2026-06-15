@@ -54,7 +54,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="C" 
@@ -63,7 +62,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -72,7 +70,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="JavaScript" 
@@ -81,7 +78,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Java" 
@@ -90,7 +86,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Kotlin" 
@@ -99,7 +94,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React" 
@@ -108,7 +102,6 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Flutter" 
@@ -117,6 +110,8 @@ With that, I’m looking to keep building my skills and prepare myself to face t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
+
+<br>
 
 ## 🛠️ What I bring (besides coding!):
 - **Communication & Writing:** technical ability for clear documentation, UX Writing and storytelling.
