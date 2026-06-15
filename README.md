@@ -155,3 +155,12 @@ Quando não estou refatorando um código ou estudando Programação, gosto de:
     </td>
   </tr>
 </table>
+
+<img 
+    align="center" 
+    alt="Robin - One Piece" 
+    title="Robin - One Piece"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="robin.jpg" 
+/>
