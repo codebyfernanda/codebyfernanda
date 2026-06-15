@@ -100,7 +100,7 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 
 --- 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyfernanda&hide=issues&count_private=true&show_icons=true&theme=nightowl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyfernanda&layout=compact&theme=nightowl" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyfernanda&hide=issues&count_private=true&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyfernanda&layout=compact&theme=algolia" />
 </div>
