@@ -5,18 +5,17 @@
 
 ## 🪐 Sobre Mim
 
-<blockquote style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0;">
+<blockquote style="border-left: 5px solid #7aa2f7; padding: 25px; background-color: #1a1b26; border-radius: 0 10px 10px 0;">
 
-  <div align="left" style="font-size: 77px; line-height: 1.8;">
-  🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.<br>
-  🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-  🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.<br>
-  🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.<br>
-  🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.
-
+  <div align="left" style="font-size: 1.6em; line-height: 1.5; color: #c0caf5;">
+    🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.<br>
+    🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.<br>
+    🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.<br>
+    🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.<br>
+    🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.
   </div>
   
-</blockquote> 
+</blockquote>
 
 </div>
 
