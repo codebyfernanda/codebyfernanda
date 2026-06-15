@@ -47,6 +47,16 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -81,6 +91,16 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
 <br/>
 <br/>
 
