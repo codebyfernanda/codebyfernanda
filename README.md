@@ -7,12 +7,12 @@
 
 <blockquote style="border-left: 5px solid #7aa2f7; padding: 25px; background-color: #1a1b26; border-radius: 0 10px 10px 0;">
 
-  <div align="left" style="font-size: 1.6em; line-height: 1.5; color: #c0caf5;">
-    🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.<br>
-    🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-    🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.<br>
-    🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.<br>
-    🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.
+  <div align="left" style="line-height: 1.5; color: #c0caf5;">
+    <p style="font-size: 1.4em; margin: 0 0 10px 0;">🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</p>
+    <p style="font-size: 1.4em; margin: 0 0 10px 0;">🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</p>
+    <p style="font-size: 1.4em; margin: 0 0 10px 0;">🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</p>
+    <p style="font-size: 1.4em; margin: 0 0 10px 0;">🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.</p>
+    <p style="font-size: 1.4em; margin: 0;">🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</p>
   </div>
   
 </blockquote>
