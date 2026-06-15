@@ -16,6 +16,26 @@ Hi! My name is **Fernanda**, and I’m a journalist with 6+ years of experience 
 
 Later, I worked as a public relations professional, where I had the chance to support companies in Artificial Intelligence (AI) and Software as a Service (SaaS). That experience helped me realize I didn’t just want to **write about these solutions — but I wanted to help *build* them**. That’s what led me to transition my career into technology.
 
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
+
+## 🎓 Graduation in progress... 
+Today, I’m an undergraduate student in **Systems Analysis and Development** at Universidade Presbiteriana Mackenzie (São Paulo, SP). I'm also studying Full Stack Programming at EBAC (British School of Creative Arts and Technology). I’ve also been using my time as a student to deepen my knowledge in areas I’m passionate about: *front-end, QA, UX / UI Design and Data*.
+
+I bridge the gap between journalism's critical thinking and software development's technical precision. My path is marked by a commitment to continuous learning and technical rigor, highlighted by the following programs:
+
+* **AWS AI FDE Driven Quality Engineering Bootcamp** | AI/R Company (May 2026)
+  * Focused on AI-driven quality engineering and development standards.
+* **#ElasTech Bootcamp** | SoulCode Academy + PagBank (2025)
+  * Intensive technical training focused on developing robust solutions for corporate environments.
+* **Introduction to Digital Logic** | UNIFESP (2025)
+  * Theoretical foundation in computational systems, strengthening the logical base necessary for software architecture.
+
+With that, I’m looking to keep building my skills and prepare myself to face the real challenges that will come in the professional market. **I’m interested in joining junior/entry-level collaborative projects**.
+
+**Let’s create impactful stories (and code!) together?** 💫
+
 ## 🤖 My Stack 
 <div align="left">
     <img 
@@ -84,26 +104,6 @@ Later, I worked as a public relations professional, where I had the chance to su
 </div>
 
 <br>
-
-<div align="center">
-<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
-</div>
-
-## 🎓 Graduation in progress... 
-Today, I’m an undergraduate student in **Systems Analysis and Development** at Universidade Presbiteriana Mackenzie (São Paulo, SP). I'm also studying Full Stack Programming at EBAC (British School of Creative Arts and Technology). I’ve also been using my time as a student to deepen my knowledge in areas I’m passionate about: *front-end, QA, UX / UI Design and Data*.
-
-I bridge the gap between journalism's critical thinking and software development's technical precision. My path is marked by a commitment to continuous learning and technical rigor, highlighted by the following programs:
-
-* **AWS AI FDE Driven Quality Engineering Bootcamp** | AI/R Company (May 2026)
-  * Focused on AI-driven quality engineering and development standards.
-* **#ElasTech Bootcamp** | SoulCode Academy + PagBank (2025)
-  * Intensive technical training focused on developing robust solutions for corporate environments.
-* **Introduction to Digital Logic** | UNIFESP (2025)
-  * Theoretical foundation in computational systems, strengthening the logical base necessary for software architecture.
-
-With that, I’m looking to keep building my skills and prepare myself to face the real challenges that will come in the professional market. **I’m interested in joining junior/entry-level collaborative projects**.
-
-**Let’s create impactful stories (and code!) together?** 💫
 
 <div align="center">
 <b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
