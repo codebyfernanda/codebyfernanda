@@ -33,7 +33,7 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
 ## 🤖 Linguagens
 
 <img 
-    align="center" 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="33px" 
@@ -41,7 +41,7 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="center" 
+    align="left" 
     alt="CSS" 
     title="CSS"
     width="33px" 
@@ -49,7 +49,7 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="center" 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="33px" 
@@ -57,7 +57,7 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="center" 
+    align="left" 
     alt="Python" 
     title="Python"
     width="33px" 
@@ -66,7 +66,7 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
 />
 
 <img 
-    align="center" 
+    align="left" 
     alt="Java" 
     title="Java"
     width="33px" 
@@ -75,7 +75,7 @@ Vamos nos conectar para criar histórias (e códigos!) de impacto? 💫
 />
 
 <img 
-    align="center" 
+    align="left" 
     alt="Kotlin" 
     title="Kotlin"
     width="33px" 
