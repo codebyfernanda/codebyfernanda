@@ -3,13 +3,13 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
-## 🪐 Sobre Mim
-
-* **Desenvolvedora** focada em Front-end, usabilidade, design de interfaces e qualidade de testes.
-* **ADS** | Atualmente cursando Análise e Desenvolvimento de Sistemas.
-* **Vibe** | Lo-fi, bandas indies e Bring Me the Horizon.
-* **Curiosidades** | Cinéfila, admiradora de tecnologia retrô e tudo o que atiça minha mente.
-* **Paçoca Peralta** | Minha gatinha (B99) e supervisora oficial de código.
+> [!NOTE]
+> **Sobre Mim**
+> 🎨 Desenvolvedora focada em Front-end, usabilidade e design.
+> 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+> 🎧 Fã de Lo-fi, Indie e Bring Me the Horizon.
+> 🎬 Curiosa por tecnologia retrô e cinema.
+> 🐾 Paçoca Peralta (B99) é minha revisora de código sênior.
 
 </div>
 
