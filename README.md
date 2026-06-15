@@ -3,13 +3,13 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
-> [!NOTE]
-> **Sobre Mim**
-> 🎨 Desenvolvedora focada em Front-end, usabilidade e design.
-> 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-> 🎧 Fã de Lo-fi, Indie e Bring Me the Horizon.
-> 🎬 Curiosa por tecnologia retrô e cinema.
-> 🐾 Paçoca Peralta (B99) é minha revisora de código sênior.
+<ul style="font-size: 1.25em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
+  <li style="margin-bottom: 10px;">🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</li>
+  <li style="margin-bottom: 10px;">🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+  <li style="margin-bottom: 10px;">🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</li>
+  <li style="margin-bottom: 10px;">🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.</li>
+  <li>🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</li>
+</ul>
 
 </div>
 
