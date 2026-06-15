@@ -1,19 +1,19 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=307FF3&background=FFFBF600&center=true&vCenter=true&width=435&lines=Oie%2C+eu+sou+Fernanda+Bastos!+%3A)" alt="Typing SVG" /></a>
 
-**`Jornalista em Transição para Tecnologia
-Front-end | QA | UX / UI Design | Dados`**
+> [!NOTE]
+> **Destaque:** Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados
 
 </div>
 
 ## 🎨 Sobre Mim
 
-<ul style="font-size: 1.6em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
-  <li style="margin-bottom: 12px;"><code>🎨 Desenvolvedora focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</code></li>
-  <li style="margin-bottom: 12px;"><code>🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.</code></li>
-  <li style="margin-bottom: 12px;"><code>🎧 Entre o Lo-fi, bandas indies e a energia inigualável do Bring Me the Horizon.</code></li>
-  <li style="margin-bottom: 12px;"><code>🎬 Cinéfila, admiradora da estética de tecnologia retrô e de tudo o que atiça a minha curiosidade.</code></li>
-  <li><code>🐾 Minha gatinha, Paçoca Peralta (inspirada em B99), é a supervisora oficial desta conta.</code></li>
+<ul style="font-size: 1.25em; line-height: 1.8; text-align: left; padding-left: 20px; list-style: none;">
+  <li style="margin-bottom: 10px;">🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</li>
+  <li style="margin-bottom: 10px;">🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+  <li style="margin-bottom: 10px;">🎧 Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</li>
+  <li style="margin-bottom: 10px;">🎬 Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.</li>
+  <li>🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</li>
 </ul>
 
 Prazer, meu nome é Fernanda e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
