@@ -29,36 +29,7 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 
 **Vamos juntos criar histórias (e códigos!) de impacto?** 💫
 
-<div align="center">
-<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
-</div>
-
-## 🛠️ O que eu trago na bagagem (além do código):
-- **Comunicação & Escrita:** Capacidade técnica para documentação clara, UX Writing e storytelling.
-- **Pesquisa bem apurada:** Facilidade em encontrar a raiz de problemas e analisar grandes massas de dados.
-- **Pensamento crítico:** Visão analítica para entender o impacto social de cada linha de código.
-- **Diversidade:** Como mulher com deficiência e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
-
-## 💡 Interesses
-- Tecnologias acessíveis (A11y);
-- Testes (Unitários/E2E) que garantem a resiliência para a Engenharia de Qualidade; 
-- Projetos open source com foco em impacto social;
-- Documentação, UX Writing e storytelling aplicado à tecnologia.
-
-## 🐈 Vida além da tela
-
-Quando não estou refatorando um código ou estudando Programação, gosto de:
-
-* **Mimar minha supervisora oficial:** Minha gatinha, **Paçoca Peralta** (homenagem a *Brooklyn 99*), garante que meu ambiente seja cheio de carinho.
-* **Explorar o meu mundinho geek:** Acompanho *One Piece*, sou uma nintendista orgulhosa, amo jogos de tabuleiro e estou sempre buscando do meu próximo *cozy game* favorito.
-* **Ouvir minhas vibes:** Minha trilha sonora de foco alterna entre o Lo-fi, bandas indie, batidas insuperáveis de EDM e a energia inigualável dos reizinhos do **Bring Me the Horizon**.
-* **Experimentar a estética cinéfila & offline:** Pratico fotografia, sou apaixonada por cinema (!!!), faço pintura em tela e tenho um apreço meio (ou *totalmente*) nostálgico pela estética retrofuturista.
-
-<div align="center">
-<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
-</div>
-
-## 🤖 Linguagens
+## 🤖 Minhas Linguagens
 
 <img 
     align="left" 
@@ -112,6 +83,35 @@ Quando não estou refatorando um código ou estudando Programação, gosto de:
 />
 <br/>
 <br/>
+
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
+
+## 🛠️ O que eu trago na bagagem (além do código):
+- **Comunicação & Escrita:** Capacidade técnica para documentação clara, UX Writing e storytelling.
+- **Pesquisa bem apurada:** Facilidade em encontrar a raiz de problemas e analisar grandes massas de dados.
+- **Pensamento crítico:** Visão analítica para entender o impacto social de cada linha de código.
+- **Diversidade:** Como mulher com deficiência e LGBTQIAPN+, minha perspectiva é pautada na acessibilidade e inclusão.
+
+## 💡 Interesses
+- Tecnologias acessíveis (A11y);
+- Testes (Unitários/E2E) que garantem a resiliência para a Engenharia de Qualidade; 
+- Projetos open source com foco em impacto social;
+- Documentação, UX Writing e storytelling aplicado à tecnologia.
+
+## 🐈 Vida além da tela
+
+Quando não estou refatorando um código ou estudando Programação, gosto de:
+
+* **Mimar minha supervisora oficial:** Minha gatinha, **Paçoca Peralta** (homenagem a *Brooklyn 99*), garante que meu ambiente seja cheio de carinho.
+* **Explorar o meu mundinho geek:** Acompanho *One Piece*, sou uma nintendista orgulhosa, amo jogos de tabuleiro e estou sempre buscando do meu próximo *cozy game* favorito.
+* **Ouvir minhas vibes:** Minha trilha sonora de foco alterna entre o Lo-fi, bandas indie, batidas insuperáveis de EDM e a energia inigualável dos reizinhos do **Bring Me the Horizon**.
+* **Experimentar a estética cinéfila & offline:** Pratico fotografia, sou apaixonada por cinema (!!!), faço pintura em tela e tenho um apreço meio (ou *totalmente*) nostálgico pela estética retrofuturista.
+
+<div align="center">
+<b>𓆝 𓆟 𓆞 𓆝 𓆟</b>
+</div>
 
 <table align="center" width="100%" border="0">
   <tr>
