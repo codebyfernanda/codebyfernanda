@@ -3,13 +3,13 @@
 
 **`Jornalista em Transição para Tecnologia | Front-end | QA | UX / UI Design | Dados`**
 
-🪐 Sobre Mim
+## 🪐 Sobre Mim
 
-🎨 Desenvolvedora focada em Front-end, usabilidade, design de interfaces e qualidade de testes.
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.
-🎧 Entre o Lo-fi, bandas indies e a energia inigualável do Bring Me the Horizon.
-🐈 Minha gatinha, Paçoca Peralta (inspirada em Brooklin 99), é a supervisora oficial dessa conta.
-🎬 Cinéfila de carteirinha, admiradora da estética de tecnologia retrô e tudo o que atiça a minha curiosidade no meio disso!
+<p> 🎨 Desenvolvedora focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</p>
+<p> 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.</p>
+<p> 🎧 Entre o Lo-fi, bandas indies e a energia inigualável do Bring Me the Horizon.</p>
+<p> 🎬 Cinéfila de carteirinha, admiradora da estética de tecnologia retrô e tudo o que atiça a minha curiosidade no meio disso!</p>
+</p> 🐈 Minha gatinha, Paçoca Peralta (inspirada em Brooklin 99), é a supervisora oficial dessa conta.</p>
 
 </div>
 
