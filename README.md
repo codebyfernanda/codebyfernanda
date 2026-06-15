@@ -117,8 +117,6 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 <br/>
 <br/>
 
---- 
-
 <table align="center" width="100%" border="0">
   <tr>
     <td align="center">
