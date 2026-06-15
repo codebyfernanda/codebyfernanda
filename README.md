@@ -18,7 +18,7 @@ Later, I worked as a public relations professional, where I had the chance to su
 
 <div>
 <img 
-    align="center" 
+    align="space-between" 
     alt="HTML"
     title="HTML" 
     width="33px" 
@@ -26,7 +26,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" 
     alt="CSS" 
     title="CSS"
     width="33px" 
@@ -34,7 +34,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" 
     alt="C" 
     title="C"
     width="33px" 
@@ -42,7 +42,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" 
     alt="Python" 
     title="Python"
     width="33px" 
@@ -50,7 +50,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" 
     alt="JavaScript" 
     title="JavaScript"
     width="33px" 
@@ -58,7 +58,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" 
     alt="Java" 
     title="Java"
     width="33px" 
@@ -66,7 +66,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" 
     alt="Kotlin" 
     title="Kotlin"
     width="33px" 
@@ -74,7 +74,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between"  
     alt="React" 
     title="React"
     width="33px" 
@@ -82,7 +82,7 @@ Later, I worked as a public relations professional, where I had the chance to su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="center" 
+    align="space-between" " 
     alt="Flutter" 
     title="Flutter"
     width="33px" 
