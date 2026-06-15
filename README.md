@@ -6,27 +6,16 @@
 </div>
 
 ## 🎨 Sobre Mim
-<div style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0; text-align: left;">
+<div style="border-left: 5px solid #7aa2f7; padding: 20px 20px 20px 35px; background-color: #1a1b26; border-radius: 0 10px 10px 0; text-align: left;">
 
-  <p style="font-size: 1.2em; margin: 0 0 10px 0; color: #c0caf5;">
-    ✦ <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e testes.
-  </p>
+  <ul style="font-size: 1.2em; color: #c0caf5; margin: 0; padding: 0;">
+    <li style="margin-bottom: 10px;"><b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e testes</li>
+    <li style="margin-bottom: 10px;">Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b></li>
+    <li style="margin-bottom: 10px;">Vibes: Lo-fi, bandas indies e a energia do <b>Bring Me the Horizon</b></li>
+    <li style="margin-bottom: 10px;">Cinéfila, entusiasta de <b>tecnologia retrô</b> e curiosidades desse mundão</li>
+    <li style="margin: 0;">Supervisora oficial: <b>Paçoca Peralta</b> (a minha gatinha inspirada com nome inspirado em B99)</li>
+  </ul>
 
-  <p style="font-size: 1.2em; margin: 0 0 10px 0; color: #c0caf5;">
-    ✦ Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.
-  </p>
-
-  <p style="font-size: 1.2em; margin: 0 0 10px 0; color: #c0caf5;">
-    ✦ Vibes: Lo-fi, bandas indies e a energia do <b>Bring Me the Horizon</b>.
-  </p>
-
-  <p style="font-size: 1.2em; margin: 0 0 10px 0; color: #c0caf5;">
-    ✦ Cinéfila, entusiasta de <b>tecnologia retrô</b> e curiosidades do mundo tech.
-  </p>
-
-  <p style="font-size: 1.2em; margin: 0; color: #c0caf5;">
-    ✦ Supervisora oficial: <b>Paçoca Peralta</b> (a gatinha inspirada em B99).
-  </p>
 </div>
 
 Prazer, meu nome é Fernanda e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
