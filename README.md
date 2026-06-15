@@ -8,23 +8,23 @@
 ## 🎨 Sobre Mim
 <div style="border-left: 5px solid #7aa2f7; padding: 25px; background-color: #1a1b26; border-radius: 0 10px 10px 0; text-align: left;">
 
-  <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
+  <p style="font-size: 1.4em; margin: 0 0 15px 0; color: #c0caf5;">
     ✦ <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e testes.
   </p>
 
-  <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
+  <p style="font-size: 1.4em; margin: 0 0 15px 0; color: #c0caf5;">
     ✦ Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.
   </p>
 
-  <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
+  <p style="font-size: 1.4em; margin: 0 0 15px 0; color: #c0caf5;">
     ✦ Vibes: Lo-fi, bandas indies e a energia do <b>Bring Me the Horizon</b>.
   </p>
 
-  <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
+  <p style="font-size: 1.4em; margin: 0 0 15px 0; color: #c0caf5;">
     ✦ Cinéfila, entusiasta de <b>tecnologia retrô</b> e curiosidades do mundo tech.
   </p>
 
-  <p style="font-size: 1.4em; line-height: 1.6; margin: 0; color: #c0caf5;">
+  <p style="font-size: 1.4em; margin: 0; color: #c0caf5;">
     ✦ Supervisora oficial: <b>Paçoca Peralta</b> (a gatinha inspirada em B99).
   </p>
 
