@@ -160,6 +160,5 @@ Quando não estou refatorando um código ou estudando Programação, gosto de:
   align="center" 
   alt="Robin - One Piece" 
   src="https://i.pinimg.com/1200x/5f/d1/fc/5fd1fcd48d0b9416dacfdd392cbcc555.jpg" 
-  width="33px" 
-  style="padding-right: 10px;" 
+  style="max-width: 200px; height: auto; padding-right: 10px;" 
 />
