@@ -38,7 +38,7 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 
 **Vamos nos conectar para criar histórias (e códigos!) de impacto?** 💫
 
----
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
 
 ## 🛠️ O que eu trago na bagagem (além do código):
 - Comunicação & escrita: Capacidade técnica para documentação clara, UX Writing e storytelling.
@@ -51,7 +51,7 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 - Projetos open source com foco em impacto social;
 - Documentação, UX Writing e storytelling aplicado à tecnologia.
 
----
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
 
 ## 🤖 Linguagens
 
