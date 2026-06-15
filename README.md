@@ -9,25 +9,15 @@
 <div style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0; text-align: left;">
 
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
-    > <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.
-  </p>
-
+    **>** <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
-    > Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.
-  </p>
-
+    **>** Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b>.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
-    > Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.
-  </p>
-
+    **>** Entre o Lo-fi, bandas indies e a energia inigualável do <b>Bring Me the Horizon</b>.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0 0 15px 0; color: #c0caf5;">
-    > Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.
-  </p>
-
+    **>** Cinéfila, admiradora da estética de <b>tecnologia retrô</b> e de tudo o que atiça a minha curiosidade.</p>
   <p style="font-size: 1.4em; line-height: 1.6; margin: 0; color: #c0caf5;">
-    > Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.
-  </p>
-
+    **>** Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</p>
 </div>
 
 Prazer, meu nome é Fernanda e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
