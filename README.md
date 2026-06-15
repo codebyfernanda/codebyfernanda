@@ -14,9 +14,7 @@
   <li>🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.</li>
 </ul>
 
----
-
-Prazer, eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
+Prazer, meu nome é Fernanda e eu sou jornalista de formação com mais de 6 anos de experiência em grandes redações (como EXAME e TMDQA! etc) que decidiu abrir espaço na vida para as linhas de código. Minha jornada na tecnologia não é nada recente: ainda quando cursava o Ensino Médio, já desbravava de maneira independente o HTML / CSS, para estilização do meu blog mas foi trabalhando como repórter que passei a observar com gosto (e intenção!) o setor de inovação. 
 
 Mais tarde, atuei como relações públicas, onde tive a oportunidade de atender empresas de inteligência artificial (IA) e Software como Serviço (SaaS). Na oportunidade, percebi que gostaria de ajudar a construir as soluções e não apenas escrever / reportar sobre elas. Foi neste ponto que decidi fazer a minha transição de carreira para a área da tecnologia.
 
