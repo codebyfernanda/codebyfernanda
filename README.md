@@ -45,7 +45,7 @@ Com isso, estou buscando me capacitar na área e me preparar adequadamente para 
 - Projetos open source com foco em impacto social;
 - Documentação, UX Writing e storytelling aplicado à tecnologia.
 
-### 🐈 Vida além da tela
+## 🐈 Vida além da tela
 
 Quando não estou refatorando um código ou estudando Programação, gosto de:
 
