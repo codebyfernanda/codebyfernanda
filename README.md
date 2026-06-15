@@ -5,6 +5,7 @@
 
 ## 🪐 Sobre Mim
 
+<blockquote style="border-left: 5px solid #7aa2f7; padding: 20px; background-color: #1a1b26; border-radius: 0 10px 10px 0;">
 <div align="left" style="font-size: 1.15em; line-height: 1.8;">
 
   🎨 <b>Desenvolvedora</b> focada em Front-end, usabilidade, design de interfaces e qualidade de testes.<br>
@@ -14,6 +15,7 @@
   🐾 Minha gatinha, <b>Paçoca Peralta</b> (inspirada em B99), é a supervisora oficial desta conta.
 
 </div>
+</blockquote> 
 
 </div>
 
